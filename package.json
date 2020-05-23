@@ -1,0 +1,17 @@
+{
+  "name": "wpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mkdirp": "^1.0.4",
+    "webpagetest": "^0.3.9"
+  }
+}
